@@ -25,5 +25,5 @@ After working as a game developer, I realized my true passion lies in web develo
 <a href="https://www.linkedin.com/in/acmojado/" target="blank"><img src="https://img.shields.io/badge/acmojado-0A1A2F?style=flat&logo=linkedin&logoColor=white" height="30" alt="linkedin" /></a>
 <img src="https://img.shields.io/badge/zerotwotwenty-0A1A2F?style=flat&logo=discord&logoColor=white" height="30" alt="discord"></img>
 
-## Stats
+## 📊 Stats
 <a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aclovestech&label=Profile%20Views&color=8&icon=0&pretty=true" height="30" alt="profile views"></a>
