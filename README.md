@@ -26,4 +26,4 @@ After working as a game developer, I realized my true passion lies in web develo
 <img src="https://img.shields.io/badge/zerotwotwenty-0A1A2F?style=flat&logo=discord&logoColor=white" height="30" alt="discord"></img>
 
 ## Stats
-<a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aclovestech&icon=0&color=0" height="30" alt="profile views"></a>
+<a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aclovestech&label=Profile%20Views&color=8&icon=0&pretty=true" height="30" alt="profile views"></a>
