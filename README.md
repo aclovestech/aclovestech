@@ -1,29 +1,59 @@
-<h1 align="center">Hello! 👋</h1>
+# Hi there, I'm Allain Carl 'AC' Mojado 👋
 
-<h3 align="center">I'm Allain Carl 'AC' Mojado, and I love expanding my knowledge when it comes to tech.</h2>
-<p align="center">From the moment I got my first desktop PC, I’ve been a tech tinkerer—sometimes to the point of breaking it! As a kid, I loved playing video games, which fueled my curiosity and passion for technology. This led me to earn a Bachelor's in Interactive Entertainment and Multimedia Computing, specializing in Game Development.
-After working as a game developer, I realized my true passion lies in web development. Now, I'm diving into self-study to create beautiful webpages that inspire and engage. I'm excited to share my journey and the stunning creations that lie ahead!</p>
+A passionate web developer constantly exploring the ever-evolving world of technology. My journey started with tinkering on PCs and grew through game development, ultimately leading me to my current focus: building engaging, user-friendly, and aesthetically pleasing web experiences. I thrive on discovering new technologies and figuring out how to apply them effectively in my projects and workflow.
 
-## 💻 Tech Stack
-### Languages:
-<img src="https://img.shields.io/badge/HTML-0A1A2F?style=flat&logo=html5&logoColor=white" height="30" alt="html"></img>
-<img src="https://img.shields.io/badge/CSS-0A1A2F?&style=flat&logo=css3&logoColor=white" height="30" alt="css"></img>
-<img src="https://img.shields.io/badge/JavaScript-0A1A2F?style=flat&logo=javascript&logoColor=white" height="30" alt="javascript"></img>
-### Frontend:
-<img src="https://img.shields.io/badge/React-0A1A2F?style=flat&logo=react&logoColor=white" height="30" alt="react"></img>
-### Version Control System:
-<img src="https://img.shields.io/badge/Git-0A1A2F?style=flat&logo=git&logoColor=white" height="30" alt="git"></img>
-<img src="https://img.shields.io/badge/Github-0A1A2F?style=flat&logo=github&logoColor=white" height="30" alt="github"></img>
-### IDEs:
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual%20studio%20code&logoColor=white" height="30" alt="visual studio code"></img>
-<img src="https://img.shields.io/badge/Sublime%20Text-0A1A2F?style=flat&logo=sublime%20text&logoColor=white" height="30" alt="sublime text"></img>
-### Hardware:
-<img src="https://img.shields.io/badge/MacBook_Air_M1-0A1A2F?style=flat&logo=apple&logoColor=white" height="30" alt="macbook"></img>
+---
 
-## 🗣️ Want to Connect?
-<a href="mailto:hello@aclovestech.com" target="blank"><img src="https://img.shields.io/badge/hello%40aclovestech%2Ecom-0A1A2F?style=flat&logo=gmail&logoColor=white" height="30" alt="email" /></a>
-<a href="https://www.linkedin.com/in/acmojado/" target="blank"><img src="https://img.shields.io/badge/acmojado-0A1A2F?style=flat&logo=linkedin&logoColor=white" height="30" alt="linkedin" /></a>
-<img src="https://img.shields.io/badge/zerotwotwenty-0A1A2F?style=flat&logo=discord&logoColor=white" height="30" alt="discord"></img>
+### 🌱 I'm currently...
+* Deepening my expertise in **React**, focusing on tackling the intricacies of frontend development like state management and component composition to create seamless user experiences.
+* Applying concepts learned from recently completing my project, **ContribuTrack** (more details below).
+* Exploring the **bigger picture of web application architecture**, mapping out how different technologies integrate and determining effective combinations for building robust applications.
 
-## 📊 Stats
-<a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aclovestech&label=Profile%20Views&color=8&icon=0&pretty=true" height="30" alt="profile views"></a>
+---
+
+### 💻 Tech Stack
+
+Here are the primary technologies I utilize in my projects and actively work with:
+
+**Frontend:**
+- TypeScript
+- Vite + React
+- Next.js
+- Tailwind CSS
+- shadcn/ui
+- TanStack (Query, Router, Form, and Table)
+
+**Backend & Database:**
+- Drizzle ORM
+- PostgreSQL
+- Server Actions & React Server Components
+- Express
+
+**Tools & Platforms:**
+- Visual Studio Code
+- Git
+- GitHub
+
+**Deployment**
+- Coolify
+
+---
+
+### 🚀 Projects
+
+Here are a few projects I'm proud of:
+
+* **ContribuTrack**
+    * A full-stack Next.js app built to help an organization manage and track donations, featuring donor management, reporting, and data visualization. Addresses a real-world need for King's Chapel (Canada).
+    * *Built with:* Next.js, TypeScript, Drizzle ORM, PostgreSQL, Tailwind CSS, shadcn/ui, Stack Auth.
+    * [GitHub](https://github.com/aclovestech/contributrack) | [Demo](https://contributrack.aclovestech.com)
+
+* **Kusina ni AC**
+    * An e-commerce application featuring user authentication (incl. Google OAuth), browse products, cart management, and secure Stripe checkout. Applied concepts learned from Codecademy coursework.
+    * *Built with:* React (Vite), TypeScript, Node.js (Express), PostgreSQL (using Knex.js), Tailwind CSS, DaisyUI, Stripe API.
+    * [GitHub](https://github.com/aclovestech/kusina-ni-ac) | [Demo](https://kusina-ni-ac.aclovestech.com/)
+
+* **Reduct**
+    * A client application to browse image-heavy subreddits using the Reddit JSON API, featuring a responsive UI and nested comments. My first project exploring React and Redux.
+    * *Built with:* React, Redux, CSS Flexbox, Reddit API.
+    * [GitHub](https://github.com/aclovestech/reduct) | [Demo](https://reduct.aclovestech.com/)
